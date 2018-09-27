@@ -7,10 +7,11 @@ Necessary to stay connected since clients in student housings are kicked after b
 saved locally for convenience.
 
 ## Installation
-Requirements: Java jre
-Either make your own java project with the source code and export a .jar file OR simply use the existing one in this repository.
+Requirements: Java runtime environment (JRE)
 
-## Screenshots
+Either make your own java project with the source code and export a .jar file OR **simply use the existing one in this repository**
+
+## Screenshot
 <p align="center">
-	<img src="img/screenshot.png" width="500">
+	<img src="img/screenshot.png" width="750">
 </p>
