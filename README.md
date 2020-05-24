@@ -1,5 +1,5 @@
 # RUB Login
-An automatic login client for the [RUB](https://www.ruhr-uni-bochum.de/en) internet access
+An automatic login client for the [RUB](https://www.ruhr-uni-bochum.de/en) internet access written in Java
 
 ## Abstract
 A login client for the RUB university internet access. 
