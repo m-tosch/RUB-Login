@@ -1,10 +1,9 @@
 # RUB Login
-An automatic login client for the RUB internet access written in Java
+An automatic login client for the [RUB](https://www.ruhr-uni-bochum.de/en) internet access
 
 ## Abstract
 A login client for the RUB university internet access. 
-Necessary to stay connected since clients in student housings are kicked after being online for 24 hours. Username and password are encrypted and
-saved locally for convenience.
+Necessary to stay connected since clients in student housings are kicked after being online for 24 hours. Username and password are encrypted and saved locally for convenience.
 
 ## Installation
 Requirements: Java runtime environment (JRE)
